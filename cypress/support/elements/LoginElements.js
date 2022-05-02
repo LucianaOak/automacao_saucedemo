@@ -12,10 +12,6 @@ class LoginElements {
 
     }
 
-    visualizaProdutos = () =>{
-        return'div.header_secondary_container'
-    }
-
 }
 
 export default LoginElements;
